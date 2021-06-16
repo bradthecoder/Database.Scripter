@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DatabaseScripter": {
+      "commandName": "Project",
+      "commandLineArgs": "\".\\SQLExpress\" \"VsDbProject\" \"c:\\temp\\databaseScripter\""
+    }
+  }
+}
